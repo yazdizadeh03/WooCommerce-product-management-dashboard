@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce product management dashboard\n"
+"POT-Creation-Date: 2024-02-24 11:04+0330\n"
+"PO-Revision-Date: 2024-02-24 11:05+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/Product-edit.php:52
+msgid "Edit product"
+msgstr "ویرایش محصول"
+
+#: includes/Product-edit.php:55
+msgid "Product Name"
+msgstr "نام محصول"
+
+#: includes/Product-edit.php:59
+msgid "Product Description"
+msgstr "توضیحات محصول"
+
+#: includes/Product-edit.php:63
+msgid "Short description about the product"
+msgstr "توضیح کوتاه درباره محصول"
+
+#: includes/Product-edit.php:68
+msgid "Product Information"
+msgstr "اطلاعات محصول"
+
+#: includes/Product-edit.php:71
+msgid "Simple product"
+msgstr "محصول ساده"
+
+#: includes/Product-edit.php:72
+msgid "Grouped product"
+msgstr "محصول گروه بندی شده"
+
+#: includes/Product-edit.php:73
+msgid "Introduced / foreign product"
+msgstr ""
+
+#: includes/Product-edit.php:74
+msgid "Variable product"
+msgstr "محصول متغیر"
+
+#: includes/Product-edit.php:87
+msgid "Reviews"
+msgstr "نقد و بررسی ها"
+
+#: includes/Product-edit.php:88
+msgid "Submit a comment"
+msgstr "فرستادن دیدگاه"
+
+#: includes/Product-edit.php:116
+msgid "Product image"
+msgstr "تصویر محصول"
+
+#: includes/Product-edit.php:123
+msgid "Remove img"
+msgstr "حذف عکس"
+
+#: includes/Product-edit.php:127
+msgid "Product gallery"
+msgstr "گالری محصول"
+
+#: includes/Product-edit.php:129
+msgid "Add a gallery image of the product"
+msgstr "افزودن گالری تصاویر محصول"
+
+#: includes/Product-edit.php:135
+msgid "Product categories"
+msgstr "دسته های محصولات"
+
+#: includes/Product-edit.php:137
+msgid "Select "
+msgstr "انتخاب"
+
+#: includes/Product-edit.php:150
+msgid "Add new category +"
+msgstr "افزودن دسته  جدید"
+
+#: includes/Product-edit.php:153
+msgid "Category name"
+msgstr "نام دسته"
+
+#: includes/Product-edit.php:163
+msgid "None"
+msgstr ""
+
+#: includes/Product-edit.php:168
+msgid "Add new category"
+msgstr "افزودن دسته جدید"
+
+#: includes/Product-edit.php:175
+msgid "Labels"
+msgstr "برچسب ها"
+
+#: includes/Product-edit.php:180
+msgid "Loading..."
+msgstr ""
+
+#: includes/Product-edit.php:183
+msgid "Add"
+msgstr "افزودن"
+
+#: includes/Product-edit.php:197
+msgid "status"
+msgstr "وضعیت"
+
+#: includes/Product-edit.php:201
+msgid "draft"
+msgstr "پیش نویس"
+
+#: includes/Product-edit.php:207
+msgid "Awaiting review"
+msgstr "در انتظار بازبینی"
+
+#: includes/Product-edit.php:213
+msgid "published"
+msgstr "منتشر شده"
+
+#: includes/Product-edit.php:217
+msgid "Publish date"
+msgstr "تاریخ انتشار"
+
+#: includes/Product-edit.php:223
+msgid "update"
+msgstr "به روز رسانی"
+
+#: includes/Product-edit.php:226
+msgid "Delete"
+msgstr "حذف"
+
+#: includes/Product-edit.php:229
+msgid "Show"
+msgstr "نمایش"
+
+#: includes/Product-list.php:22
+msgid "Products list"
+msgstr "فهرست محصولات"
+
+#: includes/Product-list.php:29
+msgid "image"
+msgstr "تصویر"
+
+#: includes/Product-list.php:30
+msgid "Name"
+msgstr "نام"
+
+#: includes/Product-list.php:31
+msgid "SKU"
+msgstr "شناسه محصول"
+
+#: includes/Product-list.php:32
+msgid "Stock"
+msgstr "انبار"
+
+#: includes/Product-list.php:33
+msgid "Price"
+msgstr "قیمت"
+
+#: includes/Product-list.php:34
+msgid "categories"
+msgstr "دسته بندی ها"
+
+#: includes/Product-list.php:35
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: includes/Product-list.php:36
+msgid "featured"
+msgstr ""
+
+#: includes/Product-list.php:37
+msgid "Date"
+msgstr "تاریخ"
+
+#: includes/Product-list.php:72
+msgid "edit"
+msgstr "ویرایش"
+
+#: includes/Product-list.php:73
+msgid "delete"
+msgstr "حذف"
+
+#: includes/Product-list.php:74
+msgid "show"
+msgstr "نمایش"
+
+#: includes/info-pro-tab/Grouped-product.php:5
+msgid "Inventory"
+msgstr "فهرست موجودی"
+
+#: includes/info-pro-tab/Grouped-product.php:6
+msgid "linked product"
+msgstr "محصولات پیوند شده"
+
+#: includes/info-pro-tab/Grouped-product.php:7
+msgid "attributes"
+msgstr "ویژگی ها"
+
+#: includes/info-pro-tab/Grouped-product.php:8
+msgid "advanced"
+msgstr "پیشرفته"
+
+#: includes/info-pro-tab/Grouped-product.php:13
+msgid "Product SKU"
+msgstr "شناسه محصول"
+
+#: includes/info-pro-tab/Grouped-product.php:18
+msgid "Group products"
+msgstr "محصولات گروهی"
+
+#: includes/info-pro-tab/Grouped-product.php:21
+#: includes/info-pro-tab/Grouped-product.php:33
+msgid "add"
+msgstr "افزودن"
+
+#: includes/info-pro-tab/Grouped-product.php:30
+msgid "Encouragement to buy more"
+msgstr "تشویق برای خرید بیشتر"
+
+#: index.php:26
+msgid "WPM dashboard"
+msgstr "داشبورد ووکامرس"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce product management dashboard"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Ravand Soft WooCommerce product management dashboard Plugin"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Arefeh yazdizadeh"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Product Name"
+#~ msgid "Product ID"
+#~ msgstr "نام محصول"
+
+#~ msgid "Edit"
+#~ msgstr "ویرایش"
+
+#~ msgid "The main category"
+#~ msgstr "دسته اصلی"
+
+#~ msgid "size:"
+#~ msgstr "سایز:"
